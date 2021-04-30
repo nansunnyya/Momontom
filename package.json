@@ -1,0 +1,24 @@
+{
+  "name": "momentom",
+  "version": "1.0.0",
+  "description": "Momontom 만들기",
+  "main": "bg.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nansunnyya/Momontom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nansunnyya/Momontom/issues"
+  },
+  "homepage": "https://nansunnyya.github.io/Momontom"
+}
